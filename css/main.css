@@ -981,8 +981,8 @@ h1, h2, h3, h4, h5, h6 {
 .genric-btn {
   display: inline-block;
   outline: none;
-  line-height: 40px;
-  padding: 0 30px;
+  line-height: 20px;
+  padding: 10 30px;
   font-size: .8em;
   text-align: center;
   text-decoration: none;
